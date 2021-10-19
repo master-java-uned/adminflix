@@ -1,6 +1,7 @@
 import axios from "axios";
 
 const KEY = process.env.REACT_APP_API_KEY;
+//TODO: check dotenv cli https://www.npmjs.com/package/dotenv-cli
 
 
 export default axios.create({
