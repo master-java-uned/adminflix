@@ -1,3 +1,6 @@
+# TL;DR
+This branch is just to test the youtube API and get familiar with it
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
